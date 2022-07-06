@@ -1,0 +1,2 @@
+# PaddleSeg_HuamnSeg
+桂林电子科技大学计算机系统综合设计，选题：基于PaddleSeg的视频人像分割算法
